@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ibukun",
+    "lasttName": "Benjamin",
+    "age": 34
+  },
+  {
+    "id": 2,
+    "firstName": "Gift",
+    "lasttName": "Igwenagu",
+    "age": 24
+  },
+  {
+    "id": 3,
+    "firstName": "Princess",
+    "lasttName": "Godwin",
+    "age": 26
+  }
+]
